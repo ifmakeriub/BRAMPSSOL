@@ -1,6 +1,7 @@
 # BRAMPSSOL
 Brazilian Maker Project and Soft Skills Oriented for Leadership
 <hr>
+<h2> Resumo </h2>
 O Brampssol, é uma metodologia feita por alunos do IF para alunos de todas as instituições de ensino, que tem como foco atuar sobre tópicos ainda pouco explorados por universidades, como o desenvolvimento na PRÁTICA das soft-skills, do pensamento criativo e inovador, e da criação de Startups.
 <hr>
 <h2> Sobre o projeto</h2>
